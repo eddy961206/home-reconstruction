@@ -2,6 +2,18 @@
 
 An estimated 3D interpretation of a home walkthrough, shared publicly with the owner's approval. The editable Blender scene and four Blender renders are included. This is not a measured survey or a finished Unreal application.
 
+## Blender render gallery
+
+These are the included Blender renders, not Unreal Engine screenshots.
+
+![Home reconstruction overview rendered in Blender](01_Render.png)
+
+![Workstation view rendered in Blender](02_Workstation.png)
+
+![Kitchen view rendered in Blender](03_Kitchen.png)
+
+![Final room view rendered in Blender](04_Final.png)
+
 ## Included files
 
 - `Home_Reconstruction.blend`: authoritative Blender 4.3.2 scene, 615 objects and 51 materials
