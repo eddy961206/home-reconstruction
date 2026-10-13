@@ -1,0 +1,1 @@
+{"FileVersion":3,"EngineAssociation":"5.4","Category":"Visualization","Description":"Video-based estimated home reconstruction. Import scaffold; not engine-verified.","Plugins":[{"Name":"PythonScriptPlugin","Enabled":true},{"Name":"EditorScriptingUtilities","Enabled":true}]}
